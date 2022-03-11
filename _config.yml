@@ -9,16 +9,16 @@
 title: Welcome to the Smoovers!
 
 # Your name to show in the footer
-author: Sleepy
+author: Made by Mr. Cyan Smoover
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  About Me: "We're just a group of gamers gaming."
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#navbar-links:
+  #About Me: "We're just a group of gamers gaming."
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -45,7 +45,7 @@ social-network-links:
   #github: daattali
   #twitter: daattali
   #patreon: DeanAttali
-  youtube: c/Smoovers
+  youtube: channel/UCJmxDEHa7K_AGOATIVOQHpA
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali

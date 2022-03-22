@@ -12,6 +12,6 @@ So, here's a new program that will tell you how close you are to your ZWAT skin!
 
 This is an external tool that currently only works with the Steam version of the game, but let me know if there are EGS players who'd also like to use this tool. As with the mods, I still haven't figured out a way to crack into the Xbox Game App unfortunately.
 
-Anyway, [here's the download](https://smooversyt.github.io/CheckZWATProgression.jar).
+Anyway, [here's the download](https://smooversyt.github.io/downloads/CheckZWATProgression.jar).
 
 Good luck on all your ZWATs!

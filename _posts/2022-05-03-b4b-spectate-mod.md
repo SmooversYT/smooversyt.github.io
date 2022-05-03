@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back 4 Blood - High Jump + No HUD + Bright Flashlight Mods!
+title: Back 4 Blood - High Jump, No HUD, and Bright Flashlight Mods!
 subtitle: A three-in-one! What a steal!
 tags: [back4blood]
 comments: false

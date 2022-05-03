@@ -17,8 +17,8 @@ There are three mods altogether:
 
 Here's what can be done with these mods:
 
-![](https://smooversyt.github.io/images/DinerOverhead.png)
-![](https://smooversyt.github.io/images/DinerLit.png)
+![DinerOverhead](https://smooversyt.github.io/images/DinerOverhead.png)
+![DinerLit](https://smooversyt.github.io/images/DinerLit.png)
 
 Download the high jump mod [here](https://smooversyt.github.io/downloads/b4bmod-high-jump.zip). 
 Download the no HUD mod [here](https://smooversyt.github.io/downloads/b4bmod-no-hud.zip). 

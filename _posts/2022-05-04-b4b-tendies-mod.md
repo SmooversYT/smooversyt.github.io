@@ -6,7 +6,7 @@ tags: [back4blood]
 comments: false
 ---
 
-Welcome to day 3 of what I have just establish will be a full week of mods!
+Welcome to day 3 of what I have just established will be a full week of mods!
 
 Today's mod is the free tenderizer mod. Now, the way this mod works is that if you drop a piece of copper, it turns into a tenderizer instead. \(Also, you only drop one copper at a time, so don't worry about wasting all your cash.\)
 

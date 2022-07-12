@@ -10,7 +10,7 @@ After many weeks of work, I've managed to boil down the manual vertex editing of
 
 Here's my first full product!
 
-![Among Us Med Kit](https://smooversyt.github.io/images/AmongUsMedkit.png)
+![Among Us Med Kit](https://smooversyt.github.io/images/AmongUsMedKit.png)
 
 Looking towards the future, I think we've unlocked much of the potential of full model swaps. There's still a little bit left to be done, namely model swaps of characters themselves, but as far as static meshes go, we're there.
 

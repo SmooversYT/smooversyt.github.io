@@ -22,6 +22,8 @@ To build a deck with the new cards:
 - In online mode this time, edit the deck, *making sure not to remove the already existing cards*. You should now be able to add any existing cards.
 - Play the game. :)
 
+I would recommend creating a deck containing all the new cards (there are only 11 of them) and duplicating this deck anytime you want to make a new deck with those cards in it. Just remove any you don't want, and if you delete one too many, go back and duplicate the original.
+
 To install:
 1. Locate your Back 4 Blood install directory. You can do this on Steam by right-clicking Back 4 Blood on the left side of your library and clicking Manage > Browse Local Files.
 2. Navigate to /Back 4 Blood/Gobi/Content/Paks.

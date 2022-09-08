@@ -1,0 +1,24 @@
+---
+layout: post
+title: Back 4 Blood - Cultist/Cleaner Swap!
+subtitle: Become a Child of the Worm!
+tags: [back4blood]
+comments: false
+---
+
+Thought the cultists looked cool? Wanted to play as them?
+
+Now you can!
+
+![Cultist Run](https://smooversyt.github.io/images/CultistRun.png)
+
+With this mod, the default skin for every cleaner becomes a cultist. Not only that, but the cultists become cleaners! So don't worry about trying to figure out who's actually on your team!
+
+Download the mod [here](https://smooversyt.github.io/downloads/b4bmod-cultist-cleaner-swap.zip).
+
+To install:
+1. Locate your Back 4 Blood install directory. You can do this on Steam by right-clicking Back 4 Blood on the left side of your library and clicking Manage > Browse Local Files.
+2. Navigate to /Back 4 Blood/Gobi/Content/Paks.
+3. Extract your downloaded zip file into the Paks folder.
+
+Have fun!

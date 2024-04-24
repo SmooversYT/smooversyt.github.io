@@ -16,8 +16,8 @@ To use the new tool:
 1. Place the tool in the same directory as the root folder of your mod (the one above Gobi).
 2. Create a new text file in the same directory.
 3. Name the file Repak.bat
-4. Edit the file to contain the following: repak_b4b.exe pack --version V9 \<mod_name\>
-If all goes well, you should see a command prompt open, run, and then close, leaving behind your .pak file in the same directory.
+4. Edit the file to contain this: repak_b4b.exe pack --version V9 \<mod_name\>
+5. If all goes well, you should see a command prompt open, run, and then close, leaving behind your .pak file in the same directory.
 
 To install new mods from scratch:
 1. Locate your Back 4 Blood install directory. You can do this on Steam by right-clicking Back 4 Blood on the left side of your library and clicking Manage > Browse Local Files.

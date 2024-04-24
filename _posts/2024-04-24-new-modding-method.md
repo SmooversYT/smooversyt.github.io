@@ -16,7 +16,7 @@ To use the new tool:
 1. Place the tool in the same directory as the root folder of your mod (the one above Gobi).
 2. Create a new text file in the same directory.
 3. Name the file Repak.bat
-4. Edit the file to contain this: repak_b4b.exe pack --version V9 \<mod_name\>
+4. Edit the file to contain this: repak_b4b.exe pack \-\-version V9 \<mod_name\>
 5. If all goes well, you should see a command prompt open, run, and then close, leaving behind your .pak file in the same directory.
 
 To install new mods from scratch:

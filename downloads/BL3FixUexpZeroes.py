@@ -1,0 +1,16 @@
+import os 
+import sys
+
+new_ending = b'\x01\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x80\x3F\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x80\x3F\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x80\x3F'
+
+filename = sys.argv[1]
+
+f = open(filename, 'rb')
+uexp_data = f.read()
+f.close()
+
+uexp_data = uexp_data[:-8] + new_ending + uexp_data[-8:]
+
+f = open(filename, 'wb')
+f.write(uexp_data)
+f.close()
